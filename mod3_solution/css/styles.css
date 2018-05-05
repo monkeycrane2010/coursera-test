@@ -1,3 +1,9 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
 
 /** HEADER **/
 #header-nav {
@@ -77,15 +83,15 @@
 }
 /* END HEADER */
 
-/* BODY */
 #chicken {
-  text-align: center;
+ text-align: center;
 }
+
 #one {
-  background-color: gray;
-  padding 10px 10px 10px 10px;
-  border: 1px solid black;
-  margin: 10px;
-  height: 1000px;
-  float: left;
+background-color: gray;
+padding 10px 10px 10px 10px;
+border: 1px solid black;
+margin: 10px;
+height: 1000px;
+float: left;
 }
